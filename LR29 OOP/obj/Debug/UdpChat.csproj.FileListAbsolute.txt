@@ -1,0 +1,20 @@
+D:\Coding\Visual Studio\VS projects\UdpChat\bin\Debug\UdpChat.exe.config
+D:\Coding\Visual Studio\VS projects\UdpChat\bin\Debug\UdpChat.exe
+D:\Coding\Visual Studio\VS projects\UdpChat\bin\Debug\UdpChat.pdb
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.exe
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.pdb
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.Form1.resources
+C:\Users\Home-PC\source\repos\LR29 OOP\bin\Debug\UdpChat.exe.config
+C:\Users\Home-PC\source\repos\LR29 OOP\bin\Debug\UdpChat.exe
+C:\Users\Home-PC\source\repos\LR29 OOP\bin\Debug\UdpChat.pdb
+C:\Users\Home-PC\source\repos\LR29 OOP\obj\Debug\UdpChat.csproj.AssemblyReference.cache
+C:\Users\Home-PC\source\repos\LR29 OOP\obj\Debug\UdpChat.Form1.resources
+C:\Users\Home-PC\source\repos\LR29 OOP\obj\Debug\UdpChat.Properties.Resources.resources
+C:\Users\Home-PC\source\repos\LR29 OOP\obj\Debug\UdpChat.csproj.GenerateResource.cache
+C:\Users\Home-PC\source\repos\LR29 OOP\obj\Debug\UdpChat.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\LR29 OOP\obj\Debug\UdpChat.exe
+C:\Users\Home-PC\source\repos\LR29 OOP\obj\Debug\UdpChat.pdb
