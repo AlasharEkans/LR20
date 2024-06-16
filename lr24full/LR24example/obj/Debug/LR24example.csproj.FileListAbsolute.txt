@@ -1,0 +1,10 @@
+C:\Users\Home-PC\source\repos\LR24example\bin\Debug\LR24example.exe.config
+C:\Users\Home-PC\source\repos\LR24example\bin\Debug\LR24example.exe
+C:\Users\Home-PC\source\repos\LR24example\bin\Debug\LR24example.pdb
+C:\Users\Home-PC\source\repos\LR24example\obj\Debug\LR24example.csproj.AssemblyReference.cache
+C:\Users\Home-PC\source\repos\LR24example\obj\Debug\LR24example.Form1.resources
+C:\Users\Home-PC\source\repos\LR24example\obj\Debug\LR24example.Properties.Resources.resources
+C:\Users\Home-PC\source\repos\LR24example\obj\Debug\LR24example.csproj.GenerateResource.cache
+C:\Users\Home-PC\source\repos\LR24example\obj\Debug\LR24example.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\LR24example\obj\Debug\LR24example.exe
+C:\Users\Home-PC\source\repos\LR24example\obj\Debug\LR24example.pdb

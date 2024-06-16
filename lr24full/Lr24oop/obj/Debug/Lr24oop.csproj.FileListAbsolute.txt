@@ -1,0 +1,9 @@
+C:\Users\Home-PC\source\repos\Lr24oop\bin\Debug\Lr24oop.exe.config
+C:\Users\Home-PC\source\repos\Lr24oop\bin\Debug\Lr24oop.exe
+C:\Users\Home-PC\source\repos\Lr24oop\bin\Debug\Lr24oop.pdb
+C:\Users\Home-PC\source\repos\Lr24oop\obj\Debug\Lr24oop.csproj.AssemblyReference.cache
+C:\Users\Home-PC\source\repos\Lr24oop\obj\Debug\Lr24oop.Properties.Resources.resources
+C:\Users\Home-PC\source\repos\Lr24oop\obj\Debug\Lr24oop.csproj.GenerateResource.cache
+C:\Users\Home-PC\source\repos\Lr24oop\obj\Debug\Lr24oop.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\Lr24oop\obj\Debug\Lr24oop.exe
+C:\Users\Home-PC\source\repos\Lr24oop\obj\Debug\Lr24oop.pdb
