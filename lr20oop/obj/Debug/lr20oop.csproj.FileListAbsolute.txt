@@ -1,0 +1,9 @@
+C:\Users\Home-PC\source\repos\lr20oop\obj\Debug\lr20oop.csproj.AssemblyReference.cache
+C:\Users\Home-PC\source\repos\lr20oop\obj\Debug\lr20oop.Properties.Resources.resources
+C:\Users\Home-PC\source\repos\lr20oop\obj\Debug\lr20oop.csproj.GenerateResource.cache
+C:\Users\Home-PC\source\repos\lr20oop\obj\Debug\lr20oop.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\lr20oop\bin\Debug\lr20oop.exe.config
+C:\Users\Home-PC\source\repos\lr20oop\bin\Debug\lr20oop.exe
+C:\Users\Home-PC\source\repos\lr20oop\bin\Debug\lr20oop.pdb
+C:\Users\Home-PC\source\repos\lr20oop\obj\Debug\lr20oop.exe
+C:\Users\Home-PC\source\repos\lr20oop\obj\Debug\lr20oop.pdb
