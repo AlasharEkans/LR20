@@ -1,0 +1,13 @@
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\bin\x86\Debug\OOPlab25.exe.config
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\bin\x86\Debug\OOPlab25.exe
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\bin\x86\Debug\OOPlab25.pdb
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\bin\x86\Debug\System.Data.OleDb.dll
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\bin\x86\Debug\System.Data.OleDb.xml
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\obj\x86\Debug\OOPlab25.csproj.AssemblyReference.cache
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\obj\x86\Debug\OOPlab25.Form1.resources
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\obj\x86\Debug\OOPlab25.Properties.Resources.resources
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\obj\x86\Debug\OOPlab25.csproj.GenerateResource.cache
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\obj\x86\Debug\OOPlab25.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\obj\x86\Debug\OOPlab25.csproj.CopyComplete
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\obj\x86\Debug\OOPlab25.exe
+C:\Users\Home-PC\source\repos\OOPlab25\OOPlab25\obj\x86\Debug\OOPlab25.pdb
