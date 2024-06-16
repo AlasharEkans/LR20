@@ -1,0 +1,9 @@
+C:\Users\Home-PC\source\repos\LR27boruta\bin\Debug\LR27boruta.exe.config
+C:\Users\Home-PC\source\repos\LR27boruta\bin\Debug\LR27boruta.exe
+C:\Users\Home-PC\source\repos\LR27boruta\bin\Debug\LR27boruta.pdb
+C:\Users\Home-PC\source\repos\LR27boruta\obj\Debug\LR27boruta.csproj.AssemblyReference.cache
+C:\Users\Home-PC\source\repos\LR27boruta\obj\Debug\LR27boruta.Properties.Resources.resources
+C:\Users\Home-PC\source\repos\LR27boruta\obj\Debug\LR27boruta.csproj.GenerateResource.cache
+C:\Users\Home-PC\source\repos\LR27boruta\obj\Debug\LR27boruta.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\LR27boruta\obj\Debug\LR27boruta.exe
+C:\Users\Home-PC\source\repos\LR27boruta\obj\Debug\LR27boruta.pdb
